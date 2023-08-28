@@ -2,6 +2,9 @@
 Streamflow Extreme Event Dataset (SEED)
 
 # Streamflow Extreme Event Dataset (SEED)
+
+![image](https://github.com/shahab122/SEED_v1.0/assets/28275758/d06bf260-b2d2-4f0d-95e6-68285dd17bf6)
+
 Streamflow Extreme Event Dataset (SEED) is a dataset that includes both flood and drought extreme events for the USGS sites collocated with the NHDPlus stream reaches over the entire contiguous United States (CONUS). SEED includes the extreme flood and drought events during the period 1980-2020.   
 
 The following steps were used to develop SEED for the extreme flood events: 
